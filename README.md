@@ -10,7 +10,7 @@
 npm install --save react-sberbank-ipay
 ```
 
-## Usage
+## Usage (in progress)
 
 ```tsx
 import * as React from 'react'
